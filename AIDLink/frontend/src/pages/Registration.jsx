@@ -419,7 +419,7 @@ const Registration = () => {
                   />
                 {errors.commonName && <p className="text-red-500 text-sm mt-1">{errors.commonName}</p>}
               </div>
-//asadss
+
               <div>
                 <label className="block text-sm font-medium text-gray-700 mb-2">
                   Acronym
