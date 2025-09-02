@@ -87,4 +87,6 @@ Feel free to fork the repository, create issues, and submit pull requests. For m
 Specify your license here (e.g., MIT, ISC).
 
 ## Contact
-Add your contact information or links here.
+Multazam Mahmud 
+01977108849
+https://www.linkedin.com/in/multazam-mahmud-8abb751bb/
